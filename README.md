@@ -7,9 +7,8 @@ This map is an interactive tool to look at changes in UPRNs at the middle layer 
 
 Boundaries as shown on the maps are purely illustrative - they have been simplified to increase load speed but the data underneath is in the right place. If you zoom in too closely on the interactive map the boundaries can be a bit janky but the info is correct (or as correct as I can get it!)
 
-Please note you will need geopackages installed to make use of this.
+Please note you will need geopackages installed to make use of this (Geopandas and Folium especially). You will also need Panel.
 
-Instructions are included in the Jupyter Notebook!
-Please have that installed or this won't work!
+Instructions are included in the Jupyter Notebook! 
 
 Any qs : samantha.iacob@ons.gov.uk
